@@ -1,5 +1,3 @@
-//Module and Port Declarations
-
 module axi_lite_memory #(parameter DW = 32)(
     input                   ACLK,
     input                   ARESETN,
